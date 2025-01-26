@@ -91,7 +91,7 @@ int main(){
 //Cidade03
 
 
-printf("Digite aqui o código da sua segunda carta: \n");
+printf("Digite aqui o código da sua terceira carta: \n");
     printf("[O código da sua carta de ser a primeira letra do estado mais um número. ex: A01, A02...]\n");
     scanf("%s", &codigo03);
 
@@ -126,20 +126,20 @@ printf("Digite aqui o código da sua segunda carta: \n");
     //cidade04
 
     
-printf("Digite aqui o código da sua segunda carta: \n");
+printf("Digite aqui o código da sua quarta carta: \n");
     printf("[O código da sua carta de ser a primeira letra do estado mais um número. ex: A01, A02...]\n");
     scanf("%s", &codigo04);
 
-    printf("Digite o nome da sua terceira cidade: \n");
+    printf("Digite o nome da sua quarta cidade: \n");
     scanf("%s", &cidade04);
 
-    printf("Digite a população da sua terceira cidade: \n");
+    printf("Digite a população da sua quarta cidade: \n");
     scanf("%f", &populacao04);
 
-     printf("Digite a área territorial da sua terceira cidade: \n");
+     printf("Digite a área territorial da sua quarta cidade: \n");
     scanf("%f", &area04);
 
-    printf("Digite o PIB da sua terceira cidade: \n");
+    printf("Digite o PIB da sua quarta cidade: \n");
     scanf("%f", &pib04);
 
     printf("Digite o número de pontos turísticos da sua terceira cidade: \n");
